@@ -1,0 +1,5 @@
+D:\Ankit\sampleProject\MyAssign\DbScripts\ContactManager.DbProject\bin\Debug\ContactManager.DbProject.dacpac
+D:\Ankit\sampleProject\MyAssign\DbScripts\ContactManager.DbProject\bin\Debug\ContactManager.DbProject.dll
+D:\Ankit\sampleProject\MyAssign\DbScripts\ContactManager.DbProject\bin\Debug\ContactManager.DbProject.pdb
+D:\Ankit\sampleProject\MyAssign\DbScripts\ContactManager.DbProject\obj\Debug\ContactManager.DbProject.dll
+D:\Ankit\sampleProject\MyAssign\DbScripts\ContactManager.DbProject\obj\Debug\ContactManager.DbProject.pdb
