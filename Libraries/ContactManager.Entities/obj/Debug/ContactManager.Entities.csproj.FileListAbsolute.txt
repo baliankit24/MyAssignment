@@ -1,0 +1,9 @@
+D:\Ankit\sampleProject\evolent-master\evolent-master\evolent.api\evolent.Entities\bin\Debug\evolent.Entities.dll
+D:\Ankit\sampleProject\evolent-master\evolent-master\evolent.api\evolent.Entities\bin\Debug\evolent.Entities.pdb
+D:\Ankit\sampleProject\evolent-master\evolent-master\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.dll
+D:\Ankit\sampleProject\evolent-master\evolent-master\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.pdb
+D:\Ankit\sampleProject\evolent-master\evolent-master\evolent.api\evolent.Entities\obj\Debug\ContactManager.Entities.csprojResolveAssemblyReference.cache
+D:\Ankit\sampleProject\MyAssign\Libraries\ContactManager.Entities\bin\Debug\evolent.Entities.dll
+D:\Ankit\sampleProject\MyAssign\Libraries\ContactManager.Entities\bin\Debug\evolent.Entities.pdb
+D:\Ankit\sampleProject\MyAssign\Libraries\ContactManager.Entities\obj\Debug\evolent.Entities.dll
+D:\Ankit\sampleProject\MyAssign\Libraries\ContactManager.Entities\obj\Debug\evolent.Entities.pdb
